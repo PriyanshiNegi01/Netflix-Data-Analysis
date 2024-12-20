@@ -1,4 +1,4 @@
-# Netflix Data Analysis 
+# Netflix Movies and TV Shows Data Analysis using SQL and Tableau
 
 ## Overview
 This project focuses on analyzing Netflix's content library and user preferences using Tableau for data visualization. The interactive dashboard provides insights into key trends such as genre popularity, content ratings, release year distribution, and regional availability. This analysis aims to help users understand patterns in Netflix's catalog and optimize content strategy for a better user experience.
