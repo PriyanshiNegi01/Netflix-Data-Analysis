@@ -1,4 +1,4 @@
-# Netflix Data Analysis Tableau Dashboard
+# Netflix Data Analysis 
 
 ## Overview
 This project focuses on analyzing Netflix's content library and user preferences using Tableau for data visualization. The interactive dashboard provides insights into key trends such as genre popularity, content ratings, release year distribution, and regional availability. This analysis aims to help users understand patterns in Netflix's catalog and optimize content strategy for a better user experience.
@@ -9,7 +9,9 @@ This project focuses on analyzing Netflix's content library and user preferences
 - **Release Year Distribution**: Insights into the timeline of Netflix's content library.
 - **Regional Availability**: Overview of content available across different countries.
   
-## Data Source
+## Dataset
+**Dataset Link:** [Kaggle Movies Dataset](https://www.kaggle.com/datasets/shivamb/netflix-shows?resource=download)
+
 The dataset used for this analysis includes publicly available information about Netflix’s content library, including:
 - Titles
 - Genres
