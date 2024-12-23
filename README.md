@@ -1,14 +1,13 @@
 # Netflix Movies and TV Shows Data Analysis using SQL and Tableau
 
 ## Overview
-This project focuses on analyzing Netflix's content library and user preferences using Tableau for data visualization. The interactive dashboard provides insights into key trends such as genre popularity, content ratings, release year distribution, and regional availability. This analysis aims to help users understand patterns in Netflix's catalog and optimize content strategy for a better user experience.
+This project focuses on analyzing Netflix's content library using both SQL and Tableau. It includes solutions to 15 business problems related to Netflix's movies and TV shows dataset using SQL and provides insightful visualizations through an interactive Tableau dashboard. The analysis aims to uncover patterns in Netflix's catalog, optimize content strategy, and explore key trends such as genre popularity, content ratings, regional availability, and release years.
 
 ## Features
-- **Interactive Dashboards**: Visualizations showcasing genre popularity, release years, and regional distribution.
-- **Content Ratings Analysis**: Comparison of ratings across various genres and regions.
-- **Release Year Distribution**: Insights into the timeline of Netflix's content library.
-- **Regional Availability**: Overview of content available across different countries.
-  
+- **SQL Analysis**: Solutions to 15 business problems, including the count of movies vs. TV shows, most common ratings, top content by country, and more.
+- **Tableau Dashboards**: Interactive visualizations showcasing genre popularity, content distribution across regions, release year trends, and ratings analysis.
+- **Business Problem Insights**: Answers to business questions using SQL queries and data exploration to help optimize Netflix's content strategy.
+
 ## Dataset
 **Dataset Link:** [Kaggle Movies Dataset](https://www.kaggle.com/datasets/shivamb/netflix-shows?resource=download)
 
