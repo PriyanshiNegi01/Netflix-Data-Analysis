@@ -13,16 +13,24 @@ This project focuses on analyzing Netflix's content library and user preferences
 **Dataset Link:** [Kaggle Movies Dataset](https://www.kaggle.com/datasets/shivamb/netflix-shows?resource=download)
 
 The dataset used for this analysis includes publicly available information about Netflix’s content library, including:
+- Show ID
+- Content type
 - Titles
-- Genres
+- Director
+- Casts
+- Date added
 - Release years
 - Content ratings
+- Content duration
 - Country availability
+- Genres
+- Description of content
 
 ## Tools and Techniques Used
-- **Tableau**: For creating and viewing interactive visualizations and dashboards.
+- **SQL**: For solving business problems and extracting key insights from the Netflix dataset.
+- **Tableau**: For creating interactive dashboards and visualizations, offering deeper insights into the data.
 - **Data Cleaning & Shaping**: Data was cleaned and shaped for optimal analysis, including handling missing values and formatting issues.
-- **Visualization Techniques**: Utilized advanced Tableau features like filters, interactive charts, and calculated fields to enhance the user experience.
+- **Visualization Techniques**: Utilized advanced Tableau features like calculated fields, filters, and interactive charts.
 
 ## Installation
 1. Clone the repository to your local machine:
@@ -38,7 +46,7 @@ The dataset used for this analysis includes publicly available information about
 - Navigate through the multiple sheets to view different aspects of the analysis.
 
 ## Conclusion
-This dashboard provides a comprehensive and visual understanding of Netflix's content library and trends. The insights from this analysis can be used for optimizing content recommendations and shaping strategic decisions.
+This project provides a comprehensive analysis of Netflix's content catalog using both SQL and Tableau. The SQL queries tackle a range of business problems, while the Tableau visualizations help present these insights interactively. Together, they offer a deep understanding of Netflix's content trends, user preferences, and strategic opportunities for content optimization.
 
 ## License
 This project is licensed under the MIT License.
