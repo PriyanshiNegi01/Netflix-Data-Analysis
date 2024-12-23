@@ -1,4 +1,4 @@
-# Netflix Movies and TV Shows Data Analysis using SQL and Tableau
+# Netflix Data Analysis using SQL and Tableau
 
 ## Overview
 This project focuses on analyzing Netflix's content library using both SQL and Tableau. It includes solutions to 15 business problems related to Netflix's movies and TV shows dataset using SQL and provides insightful visualizations through an interactive Tableau dashboard. The analysis aims to uncover patterns in Netflix's catalog, optimize content strategy, and explore key trends such as genre popularity, content ratings, regional availability, and release years.
@@ -13,7 +13,7 @@ This project focuses on analyzing Netflix's content library using both SQL and T
 ---
 
 ## Dataset
-**Dataset Link:** [Kaggle Movies Dataset](https://www.kaggle.com/datasets/shivamb/netflix-shows?resource=download)
+**Dataset Link**: [Netflix Movies and TV Shows Dataset on Kaggle](https://www.kaggle.com/datasets/shivamb/netflix-shows?resource=download)
 
 The dataset used for this analysis includes publicly available information about Netflix’s content library, including:
 - Show ID
@@ -32,8 +32,7 @@ The dataset used for this analysis includes publicly available information about
 ---
 
 ## Tools and Techniques Used
-- **SQL**: For solving business problems and extracting key insights from the Netflix dataset.
-  Employed advanced SQL techniques such as:
+- **SQL**: Used for solving business problems and extracting key insights from the Netflix dataset. Advanced SQL techniques were employed, including:
   - **Aggregation Functions**: `COUNT()`, `SUM()`, `ROUND()`, etc.
   - **String Manipulation**: `STRING_TO_ARRAY()`, `UNNEST()`, `SPLIT_PART()`, `TRIM()`.
   - **Date Manipulation**: `TO_DATE()`, `EXTRACT()`, `CURRENT_DATE`.
@@ -42,9 +41,10 @@ The dataset used for this analysis includes publicly available information about
   - **Conditional Logic**: `CASE` statements for categorizing content.
   - **Subqueries**: To calculate average releases, filter specific years, etc.
   - **Filtering & NULL Handling**: Using `WHERE` and `IS NULL` to filter and clean the data.
-- **Tableau**: For creating interactive dashboards and visualizations, offering deeper insights into the data.
-- **Data Cleaning & Shaping**: Data was cleaned and shaped for optimal analysis, including handling missing values and formatting issues.
-- **Visualization Techniques**: Utilized advanced Tableau features like calculated fields, filters, and interactive charts.
+- **Tableau**: Used to create interactive dashboards, which offer deeper insights into Netflix's content. Key features include:
+  - **Calculated Fields** for deriving new metrics.
+  - **Filters** for dynamic content exploration.
+  - **Interactive Charts** to explore genre, ratings, and regional content distribution.
 
 ---
 
@@ -71,4 +71,4 @@ This project provides a comprehensive analysis of Netflix's content catalog usin
 ---
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for more details.
